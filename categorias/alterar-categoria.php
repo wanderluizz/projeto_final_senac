@@ -1,6 +1,6 @@
 <?php
 
-require_once 'conexao.php';
+require_once '../conexao/conexao.php';
 
 $id = $_POST['id'];
 $nome = $_POST['nome'];
